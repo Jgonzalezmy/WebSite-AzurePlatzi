@@ -95,3 +95,4 @@ C:\Proyectos\Cursos\Azure\platzi\platziwebsite\obj\Debug\net9.0\refint\PlatziWeb
 C:\Proyectos\Cursos\Azure\platzi\platziwebsite\obj\Debug\net9.0\PlatziWebsite.pdb
 C:\Proyectos\Cursos\Azure\platzi\platziwebsite\obj\Debug\net9.0\PlatziWebsite.genruntimeconfig.cache
 C:\Proyectos\Cursos\Azure\platzi\platziwebsite\obj\Debug\net9.0\ref\PlatziWebsite.dll
+C:\Proyectos\Cursos\Azure\platzi\platziwebsite\obj\Debug\net9.0\PlatziWebsite.sourcelink.json
